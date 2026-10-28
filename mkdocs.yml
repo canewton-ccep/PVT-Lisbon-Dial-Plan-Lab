@@ -35,7 +35,7 @@ theme:
   favicon: template_assets/webex75.png
 extra:
   generator: false
-  repo: "https://github.com/ca-newton-ccep/PVT-Lisbon-Dial-Plan-Lab.git"
+  repo: "https://github.com/canewton-ccep/PVT-Lisbon-Dial-Plan-Lab.git"
   site_event: test
 extra_css:
   - stylesheets/extra.css
