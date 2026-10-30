@@ -4,4 +4,4 @@
 Please fill out the [Slido Survey](https://app.sli.do/event/6ThbDUGhxfAboYjm2H8q4u) to rate the session! It really helps us to plan events and improve our content.  You can also scan the QR code below with your mobile device to fill out the survey on the go!
 
 
-<img src="assets/image-4.png" alt="QR Code to Slido Survey" width="25%">
+![QR Code to Slido Survey](assets/image-4.png)
